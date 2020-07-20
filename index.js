@@ -1,3 +1,3 @@
 console.console.error("HALP")
-console.log("I am Logging")
-console.warn("This is a warning")
+console.console.log("I am Logging")
+console.console.warn("This is a warning")
