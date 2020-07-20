@@ -1,4 +1,4 @@
 
 console.log("I am Logging");
 console.console.error("halp!");
-console.warn("Im warning you!")
+console.console.warn("Im warning you!");
